@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSS</string>
+    <string name="addRss">+</string>
+    <string name="url">URL</string>
+    <string name="welcome">RSS is empty</string>
+    <string name="addUrl">Add URL RSS</string>
+</resources>
